@@ -27,8 +27,8 @@
 #define AMULETLEVEL	26
 #define	NUMTHINGS	7	/* number of types of things */
 #define MAXPASS		13	/* upper limit on number of passages */
-#define	NUMLINES	24
-#define	NUMCOLS		80
+#define	NUMLINES	15      /* reduced from 24 to enable display on Beepy using 8x16 font
+#define	NUMCOLS		50      /* reduced from 24 to enable display on Beepy using 8x16 font
 #define STATLINE		(NUMLINES - 1)
 #define BORE_LEVEL	50
 
